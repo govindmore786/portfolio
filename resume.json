@@ -1,0 +1,131 @@
+{
+    "basics": {
+      "name": "Govind",
+      "label": "B.Tech CSE Student at IIT Bhilai",
+      "email": "govindm@iitbhilai.ac.in",
+      "phone": "8889477989",
+      "location": {
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "network": "GitHub",
+          "username": "govindmore786",
+          "url": "https://github.com/govindmore786"
+          
+        },
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/govind-more-8347b731a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+
+        }
+      ],
+      "summary": "I am a third-year B.Tech student at IIT Bhilai with a strong passion for web development. As a MERN stack developer, I have hands-on experience in building scalable and dynamic web applications. I enjoy solving complex problems and continuously expanding my technical skills."
+    },
+    "education": [
+      {
+        "institution": "Indian Institute of Technology, Bhilai",
+        "area": "Computer Science and Engineering",
+        "studyType": "Bachelor of Technology",
+        "startDate": "2021",
+        "endDate": "2025 (expected)"
+      },
+      {
+        "institution": "Jawahar Navodaya Vidyalaya",
+        "studyType": "Higher Secondary (12th Grade)",
+        "fieldOfStudy": "Mathematics",
+        "endDate": "2021"
+      }
+    ],
+    "skills": {
+      "technical": [
+        {
+          "name": "Programming Languages",
+          "keywords": ["C++", "Python", "JavaScript"]
+        },
+        {
+          "name": "Web Development",
+          "keywords": ["MERN Stack", "HTML", "CSS", "React", "Node.js", "Express"]
+        },
+        {
+          "name": "DevOps & Tools",
+          "keywords": ["Docker", "Linux"]
+        },
+        {
+          "name": "Data Science",
+          "keywords": ["Machine Learning", "Deep Learning"]
+        }
+      ],
+      "soft": [
+        "Observation",
+        "Decision making",
+        "Communication",
+        "Multi-tasking",
+        "Team coordination"
+      ]
+    },
+    "projects": [
+      {
+        "name": "Spotlight",
+        "description": "Tourist information platform providing details about places including photos, reviews and videos.",
+        "keywords": ["MERN Stack", "Web Development"],
+        "url": "https://spotlight-final.onrender.com/",
+        "code link":"https://github.com/govindmore786/spotlight",
+        "highlights": [
+          "Implemented user authentication system",
+          "Integrated multiple APIs for tourist data"
+        ]
+      },
+      {
+        "name": "Fake News Detection System",
+        "description": "CNN-LSTM model with FastText embeddings for fake news classification (89% accuracy).",
+        "keywords": ["Python", "Deep Learning", "NLP"],
+        "url": "https://github.com/anilkrmandal/FakeNewsDetecctor"
+      },
+      {
+        "name": "TextUtils",
+        "description": "Text utility application for manipulating and analyzing text content.",
+        "keywords": ["HTML", "CSS", "JavaScript"],
+        "url": "https://testutils.onrender.com/",
+        "code link":"https://github.com/govindmore786/spotlight"
+      }
+    ],
+    "research": [
+      {
+        "title": "Fake News Detection Research",
+        "description": "Worked on a CNN-LSTM model with FastText embeddings for fake news detection, achieving 89% accuracy.",
+        "keywords": ["Deep Learning", "Natural Language Processing"]
+      },
+      {
+        "title": "Network Simulation Research",
+        "description": "Performed simulations in NS-3 to analyze TCP congestion control algorithms.",
+        "keywords": ["Networking", "NS-3", "TCP"]
+      }
+    ],
+    "courses": [
+      "Data Structures and Algorithms I & II",
+      "Computer Organization and Architecture",
+      "Software Tools & Technologies I & II",
+      "Theory of Computation I & II",
+      "Database Management Systems",
+      "Operating Systems",
+      "Machine Learning"
+    ],
+  
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": ["Playing flute", "Music listening"]
+    },
+    {
+      "name": "Arts & Entertainment",
+      "keywords": ["Watching movies", "Painting"]
+    },
+    {
+      "name": "Travel",
+      "keywords": ["Exploring new places"]
+    }
+  ]
+}
